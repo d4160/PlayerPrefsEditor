@@ -1,11 +1,7 @@
 {
-    "name": "PlayerPrefs.Editor",
-    "references": [
-        "PlayerPrefs"
-    ],
-    "includePlatforms": [
-        "Editor"
-    ],
+    "name": "PlayerPrefsUtility",
+    "references": [],
+    "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
