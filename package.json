@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "com.github.sabresaurus.player-prefs-editor",
   "displayName": "PlayerPrefs Editor & Utilities",
   "version": "1.1.0",
@@ -17,4 +18,15 @@
     "type": "git",
     "url": "https://github.com/sabresaurus/PlayerPrefsEditor.git"
   }
+=======
+    "name": "com.sabresaurus.playerprefseditor",
+    "version": "1.2.0",
+    "displayName": "PlayerPrefs Editor & Utilities",
+    "description": "PlayerPrefs Editor & Utilities provide an easy way to see what PlayerPrefs your game is using and change them at run-time.",
+    "unity": "2017.1",
+    "author": {
+        "name": "sabresaurus",
+        "url": "https://sabresaurus.com/docs/playerprefs-editor-utilities-documentation/"
+    }
+>>>>>>> 5aa52c76f0a3da4b00c1fad8a9dcb7f76b4bbf23
 }
