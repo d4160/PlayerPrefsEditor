@@ -1,24 +1,4 @@
 {
-<<<<<<< HEAD
-  "name": "com.github.sabresaurus.player-prefs-editor",
-  "displayName": "PlayerPrefs Editor & Utilities",
-  "version": "1.1.0",
-  "unity": "2017.1",
-  "description": "Provide an easy way to see what PlayerPrefs your game is using and change them at run-time. It also includes encryption support to protect your player prefs from casual hacking and has additional support for more data types.",
-  "keywords": [
-    "playerprefs",
-    "unity",
-    "editor",
-    "inspector"
-  ],
-  "author": {
-    "name": "sabresaurus"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/sabresaurus/PlayerPrefsEditor.git"
-  }
-=======
     "name": "com.sabresaurus.playerprefseditor",
     "version": "1.2.0",
     "displayName": "PlayerPrefs Editor & Utilities",
@@ -28,5 +8,4 @@
         "name": "sabresaurus",
         "url": "https://sabresaurus.com/docs/playerprefs-editor-utilities-documentation/"
     }
->>>>>>> 5aa52c76f0a3da4b00c1fad8a9dcb7f76b4bbf23
 }
